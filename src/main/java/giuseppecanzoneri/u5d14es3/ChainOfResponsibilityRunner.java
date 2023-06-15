@@ -1,4 +1,4 @@
-package giuseppecanzoneri.u5d14es3.runner;
+package giuseppecanzoneri.u5d14es3;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
